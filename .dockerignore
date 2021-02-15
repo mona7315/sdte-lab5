@@ -5,6 +5,6 @@ tests
 .dockerignore
 .gitignore
 .prettierignore
-.prettierrsc.json
+.prettierrc.json
 Dockerfile
 .git
